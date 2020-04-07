@@ -1,9 +1,7 @@
 #gameCanvas {
-    margin: 8px;
-    padding: 8px;
+    align-self: center;
+    justify-self: center;
 }
-
-
 #container {
     text-align: center;
     padding: 10px;
